@@ -1,2 +1,1 @@
 - 👋 Hi, I’m [@ExplodingDragon](https://github.com/ExplodingDragon)
-- 🌱 I’m currently learning Kotlin/Rust/Golang

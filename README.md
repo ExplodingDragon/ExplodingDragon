@@ -1,10 +1,12 @@
 ### 👋 Hi, I'm ExplodingDragon
 
+Due to some reasons, I've switched to self-hosted Gitea, with GitHub serving only as a mirror.
+
 **Technical Toolkit:**
 
 - **Programming Languages**: Familiar with Kotlin/Java; know about Golang, JavaScript/TypeScript, Rust
-- **Frameworks & Libraries**: Angular, SpringBoot, Gin, Ktor 
-- **DevOps & Tools**: Bash, Git, Docker, Kubernetes, GitHub Actions, Terraform
+- **Frameworks & Libraries**: Angular, Ktor, SpringBoot, Kotlin Multiplatform
+- **DevOps & Tools**: Bash, Git, Docker, Kubernetes, Gitea Actions, Terraform
 
 ### Stats on GitHub
 

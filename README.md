@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm ExplodingDragon
 
-Due to some reasons, I've switched to self-hosted Gitea, with GitHub serving only as a mirror.
+~~Due to some reasons~~, I've switched to self-hosted Gitea, with GitHub serving only as a mirror.
 
 **Technical Toolkit:**
 

@@ -6,7 +6,7 @@
 
 - **Programming Languages**: Familiar with Kotlin/Java; know about Golang, JavaScript/TypeScript, Rust
 - **Frameworks & Libraries**: Angular, Ktor, SpringBoot, Kotlin Multiplatform
-- **DevOps & Tools**: Bash, Git, Docker, Kubernetes, Gitea Actions, Terraform
+- **DevOps & Tools**: Ansible, Bash, Git, Docker/Podman, Kubernetes/K3s, Terraform
 
 ### Stats on GitHub
 

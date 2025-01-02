@@ -11,10 +11,10 @@
 ### Stats on GitHub
 
 <a href="https://github.com/ExplodingDragon#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExplodingDragon&count_private=true&show_icons=true&theme=light#gh-light-mode-only" align="left" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ExplodingDragon&count_private=true&show_icons=true&rank_icon=github&theme=light#gh-light-mode-only" align="left" alt="My GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExplodingDragon&layout=compact&langs_count=8&theme=light#gh-light-mode-only" align="left" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/ExplodingDragon#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExplodingDragon&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" align="left" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ExplodingDragon&count_private=true&show_icons=true&rank_icon=github&theme=dark#gh-dark-mode-only" align="left" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExplodingDragon&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only" align="left" alt="Most Used Languages" />
 </a>

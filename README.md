@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm ExplodingDragon
 
+**Happy Lunar New Year**
+
 ~~Due to some reasons~~, I've switched to self-hosted Gitea, with GitHub serving only as a mirror.
 
 **Technical Toolkit:**

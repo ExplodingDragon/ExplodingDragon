@@ -10,7 +10,9 @@ Starting 2024, I switched to Gitea, with GitHub serving solely as a mirror repos
 
 -  **Golang Library** : [gopkg.d7z.net](https://gopkg.d7z.net)
 -  **Blog(zh)** : [blog.d7z.net](https://blog.d7z.net)
--  **E-Mail (en,zh)**: `dragon(a)d7z.net` **Stop spam !**
+-  **Mail (en,zh)**: `dragon(a)d7z.net`
+
+**Stop spam !**
 
 ### Stats on GitHub
 

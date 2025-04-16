@@ -1,10 +1,16 @@
-~~Due to some reasons~~, I've switched to self-hosted Gitea, with GitHub serving only as a mirror.
+Starting 2024, I switched to Gitea, with GitHub serving solely as a mirror repository.
 
 **Technical Toolkit:**
 
 - **Programming Languages**: Familiar with Kotlin/Java; know about Golang, JavaScript/TypeScript, Rust
 - **Frameworks & Libraries**: Angular, Ktor, SpringBoot, Kotlin Multiplatform
 - **DevOps & Tools**: Ansible, Bash, Git, Docker/Podman, Kubernetes/K3s, Terraform
+
+### Link
+
+-  **Golang Library** : [gopkg.d7z.net](https://gopkg.d7z.net)
+-  **Blog(zh)** : [blog.d7z.net](https://blog.d7z.net)
+-  **E-Mail (en,zh)**: `dragon(a)d7z.net` **Stop spam !**
 
 ### Stats on GitHub
 

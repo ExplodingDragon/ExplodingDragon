@@ -22,3 +22,5 @@ Starting 2024, I switched to Gitea, with GitHub serving solely as a mirror repos
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExplodingDragon&theme=github_dark" align="left" height="150">
   &nbsp;<br clear="all">
 </div>
+
+Technology is not a panacea. 

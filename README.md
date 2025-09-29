@@ -1,4 +1,4 @@
-Starting 2024, I switched to Gitea, with GitHub serving solely as a mirror repository.
+Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), with GitHub serving solely as a mirror repository.
 
 **Technical Toolkit:**
 
@@ -10,10 +10,7 @@ Starting 2024, I switched to Gitea, with GitHub serving solely as a mirror repos
 
 -  **Golang Library** : [gopkg.d7z.net](https://gopkg.d7z.net)
 -  **Blog(zh)** : [blog.d7z.net](https://blog.d7z.net)
--  **Mail (en,zh)**: `dragon(a)d7z.net`
-
-**Stop spam !**
-
+-  **Mail (en, zh)**: `dragon(a)d7z.net` **[Stop spam]**
 ### Stats on GitHub
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplodingDragon&theme=github_dark" height="151">
@@ -23,4 +20,4 @@ Starting 2024, I switched to Gitea, with GitHub serving solely as a mirror repos
   &nbsp;<br clear="all">
 </div>
 
-Technology is not a panacea. 
+~~Technology is not a panacea.~~

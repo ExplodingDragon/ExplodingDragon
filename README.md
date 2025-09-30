@@ -22,4 +22,4 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 
 ~~Technology is not a panacea.~~
 
-The avatar is from (pixiv#100879616)[https://www.pixiv.net/artworks/100879616]
+The avatar is from [pixiv#100879616](https://www.pixiv.net/artworks/100879616)

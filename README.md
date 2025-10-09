@@ -2,8 +2,8 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 
 **Technical Toolkit:**
 
-- **Programming Languages**: Familiar with Kotlin/Java; know about Golang, JavaScript/TypeScript, Rust
-- **Frameworks & Libraries**: Angular, Ktor, SpringBoot, Kotlin Multiplatform
+- **Programming Languages**: Familiar with Kotlin/Java, Golang; know about JavaScript/TypeScript, Rust
+- **Frameworks & Libraries**: Angular, SpringBoot, Ktor, Kotlin Multiplatform
 - **DevOps & Tools**: Ansible, Bash, Git, Docker/Podman, Kubernetes/K3s, Terraform
 
 ### Link
@@ -11,6 +11,7 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 -  **Golang Library** : [gopkg.d7z.net](https://gopkg.d7z.net)
 -  **Blog(zh)** : [blog.d7z.net](https://blog.d7z.net)
 -  **Mail (en, zh)**: `dragon(a)d7z.net` **[Stop spam]**
+
 ### Stats on GitHub
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplodingDragon&theme=github_dark" height="151">

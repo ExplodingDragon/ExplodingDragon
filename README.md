@@ -10,7 +10,7 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 
 -  **Golang Library** : [gopkg.d7z.net](https://gopkg.d7z.net)
 -  **Blog(zh)** : [blog.d7z.net](https://blog.d7z.net)
--  **Mail (en, zh)**: `dragon(a)d7z.net` **[Stop spam]**
+-  **Mail (en, zh)**: `dragon(a)d7z.net`
 
 ### Stats on GitHub
 
@@ -24,3 +24,5 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 Technology is not a panacea.
 
 Avatar src: [pixiv#100879616](https://www.pixiv.net/artworks/100879616)
+
+~~How can catgirls be this cute .  Every human should get an adorable catgirl!~~

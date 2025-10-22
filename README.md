@@ -21,8 +21,5 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
   &nbsp;<br clear="all">
 </div>
 
-Technology is not a panacea.
-
 Avatar src: [pixiv#100879616](https://www.pixiv.net/artworks/100879616)
 
-~~How can catgirls be this cute .  Every human should get an adorable catgirl!~~

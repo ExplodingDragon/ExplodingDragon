@@ -14,9 +14,9 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 
 ### Stats on GitHub
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplodingDragon&theme=github_dark" height="151">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplodingDragon&theme=github_dark" height="151">
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ExplodingDragon&theme=github_dark" align="left" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ExplodingDragon&theme=github_dark" align="left" height="150">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExplodingDragon&theme=github_dark" align="left" height="150">
   &nbsp;<br clear="all">
 </div>

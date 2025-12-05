@@ -14,12 +14,12 @@ Starting in 2024, I switched to [Gitea](https://github.com/go-gitea/gitea.git), 
 
 ### Stats on GitHub
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ExplodingDragon&theme=github_dark" height="151">
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ExplodingDragon&theme=github_dark" align="left" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ExplodingDragon&theme=github_dark" align="left" height="150">
-  &nbsp;<br clear="all">
-</div>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=33776693" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33776693&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @ExplodingDragon" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=33776693&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 Avatar src: [pixiv#100879616](https://www.pixiv.net/artworks/100879616)
 
